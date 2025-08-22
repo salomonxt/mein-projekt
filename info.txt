@@ -1,1 +1,2 @@
-Mein erstes Git-Projekt Versionskontrolle
+-Mein erstes Git-Projekt Versionskontrolle-
+Dies ist eine zweite Zeile.
