@@ -1,4 +1,6 @@
 -Mein erstes Git-Projekt Versionskontrolle-
 Dies ist eine zweite Zeile.
 
-Hier ist Mainbranch1 und da Mainbranch2 ?
+Hi, hier ist Mainbranch2!!! I see You!
+
+(sind wir nun eins geworden ?)
